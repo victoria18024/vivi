@@ -2,10 +2,10 @@
 
 
 :root {
-	--fundo: #1E1E1E;		
+	--fundo: #1e1e1e;		
 	--verde: #6FFF57;
 	--branco: #FFFFFF;
-	--botao-on: #3A375E;
+	--botao-on: #55375e;
 	--botao-off: rgba(58, 55, 94, 0.5);
 	--texto-fundo: rgba(58, 55, 94, 0.3);	/*definindo variáveis*/
 	}
