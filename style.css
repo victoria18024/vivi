@@ -1,9 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap");
 
-
 :root {
-	--fundo: #1e1e1e;		
-	--verde: #6FFF57;
+	--fundo: #e60ead;		
+	--roxo: #4d0c54;
 	--branco: #FFFFFF;
 	--botao-on: #55375e;
 	--botao-off: rgba(58, 55, 94, 0.5);
@@ -34,7 +33,7 @@ body {
 }
 
 .titulo-principal span {
-	color: var(--verde);  /* trocando cor do _ */
+	color: var(--rosa);  /* trocando cor do _ */
 }
 
 .botao {
@@ -56,7 +55,7 @@ body {
 
 .botao.ativo {
 	background-color: var(--botao-on);	/* definindo cores do botão ativo*/
-	border-bottom: 4px solid var(--verde);
+	border-bottom: 4px solid var(--rosa);
 	}
 
 .botoes {
@@ -84,7 +83,7 @@ body {
 
 .aba-conteudo-titulo-secundario{
 	text-align: center;
-	color: var(--verde);
+	color: var(--rosa);
 	text-transform: uppercase;
 }
 
